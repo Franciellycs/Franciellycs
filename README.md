@@ -7,7 +7,7 @@
 <kbd>an Analysis and Systems Development student at FADERGS in Porto Alegre, Brazil. </kbd>
 
 ###
- <samp> 👩🏻‍💻 I'm working in N2 Technical Support, and I'm migrating to the area of Systems Analysis;</samp>
+ <samp> 👩🏻‍💻 I'm a Systems Assistant;</samp>
 
  <samp> 📚 I’m currently learning about **how to programming**; </samp>
 
