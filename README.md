@@ -2,14 +2,13 @@
 
 ### <samp>Hii there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
-### <kbd> I'm Francielly Correa, 21 years old </kbd>
+### <kbd> I'm Francielly Correa, 25 years old </kbd>
 
-<kbd>an Analysis and Systems Development student at FADERGS in Porto Alegre, Brazil. </kbd>
+<kbd>an Analyst and Systems Development </kbd>
 
 ###
- <samp> 👩🏻‍💻 I'm a Systems Assistant;</samp>
 
- <samp> 📚 I’m currently learning about **how to programming**; </samp>
+ <samp> 📚 I’m currently building my expertise in back-end development and Node.js; </samp>
 
  <samp> ♥ I love deep conversations 🤯, animals 🐕 and the sea 🌊. </samp>
  
