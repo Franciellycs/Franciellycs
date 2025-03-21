@@ -14,7 +14,7 @@
  
 ##
 
-<img src="https://img.shields.io/badge/-C%20-blue" /> <img src="https://img.shields.io/badge/-Java-grey" />
+<img src="https://img.shields.io/badge/-JS-yellow" /> <img src="https://img.shields.io/badge/-Node-green" />
 
 <!-- 
 **Franciellycs/Franciellycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
