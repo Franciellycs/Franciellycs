@@ -1,4 +1,5 @@
 <img align="right" width="30%" src="https://media4.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif?cid=ecf05e477nwek5k4cjd14k1qwfrszwt25mjywimb48n5igsz&rid=giphy.gif"/>
+<img align="right" width="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMwbjVsMXVxdjVueW9id3ZkYmZvYTZteTQxbHhwZXNyeTduZmlwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACdlsmViQciA8BfGp3/giphy.gif"/>
 
 ### <samp>Hii there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
