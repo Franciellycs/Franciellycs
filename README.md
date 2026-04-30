@@ -3,13 +3,13 @@
 
 ### <samp>Hii there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
-### <kbd> I'm Francielly Correa, 25 years old </kbd>
+### <kbd> I'm Francielly Correa, 26 years old </kbd>
 
 <kbd>an Analyst and Systems Development </kbd>
 
 ###
 
- <samp> 📚 I’m currently building my expertise in back-end development and Node.js; </samp>
+ <samp> 📚 I’m currently building my expertise in back-end development and Java; </samp>
 
  <samp> ♥ I love deep conversations 🤯, animals 🐕 and the sea 🌊. </samp>
  
